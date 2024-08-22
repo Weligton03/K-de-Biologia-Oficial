@@ -1,0 +1,19 @@
+body {
+    background-color: beige;
+}
+.nome-logo {
+   display: block;
+   margin: 0 auto;
+}
+#divBusca {
+    background-color: #ccc;
+    border: solid #111111;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
